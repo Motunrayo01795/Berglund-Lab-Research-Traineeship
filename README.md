@@ -5,9 +5,9 @@ Myotonic Dystrophy type 1 is characterized by widespread alternative splicing (A
 
 
 ## Repository Contents
-#Script 
+# Script 
 Complete end to end differential gene expression analysis and alternative splicing analysis scripts 
-#ppt
+# ppt
 A ppt summarizing all my findings from the beginning to end of the project 
 
 
